@@ -1,0 +1,181 @@
+.head
+{
+  color: white;
+  background-color: rgb(0, 78, 5);
+  text-align: center;
+  font-family: Georgia;
+}
+.head1
+{
+  text-align: center;
+  font-family: Georgia;
+}
+.head2
+{
+  background-color: rgb(142, 0, 0);
+  color: white;
+  font-family: Georgia;
+  font-weight: bold;
+}
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.btn{
+  margin: 2px;
+ 
+}
+.btn1{
+  margin: 2px;
+ width: 1050px;
+}
+.divbtn{
+  float: left;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.search
+{
+  width: 1084px;
+  height: 50px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Georgia;
+  border-radius: 10px;
+}
+.btn12
+{
+  color: white;
+  background-color: rgb(28, 113, 0);
+  border: 1px solid rgb(28, 113, 0);
+  font-size: 20px;
+  border-radius: 5px;
+  width: 20px;
+  margin-top: 20px;
+}
+
+.second-division button {
+  color: white;
+  background-color: rgb(107, 0, 0);
+  border: 1px solid rgb(107, 0, 0);
+  font-size: 20px;
+  margin-left: 645px;
+width: 38px;
+  border-radius: 5px;
+}
+:root {
+  --color-primary: #0073ff;
+  --color-white: #e9e9e9;
+  --color-black: #141d28;
+  --color-black-1: #212b38;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+ 
+}
+
+.logo {
+  color: var(--color-white);
+  font-size: 30px;
+}
+
+.logo span {
+  color: var(--color-primary);
+}
+
+.menu-bar {
+  background-color: rgb(132, 0, 0);
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5%;
+
+  position: relative;
+}
+
+.menu-bar ul {
+  list-style: none;
+  display: flex;
+}
+
+.menu-bar ul li {
+  /* width: 120px; */
+  padding: 10px 30px;
+  /* text-align: center; */
+
+  position: relative;
+}
+
+.menu-bar ul li a {
+  font-size: 20px;
+  color: var(--color-white);
+  text-decoration: none;
+
+  transition: all 0.3s;
+}
+
+.menu-bar ul li a:hover {
+  color: var(--color-primary);
+}
+
+.fas {
+  float: right;
+  margin-left: 10px;
+  padding-top: 3px;
+}
+
+
+
+.hero {
+  height: calc(100vh - 80px);
+  
+  background-position: center;
+}
+.uu
+{
+  color: white;
+  font-size: 20px;
+  font-family: Georgia;
+}
+

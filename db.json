@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Atif",
+      "email": "Atif33@gmail.com",
+      "phone": "+82-3723-08782"
+    },
+    {
+      "id": 2,
+      "name": "kamal",
+      "email": "Atif33@gmail.com",
+      "phone": "+37-9623-89623"
+    },
+    {
+      "name": "anila",
+      "email": "anila72@yahoo.com",
+      "phone": "+62-8583-76523",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "kamal",
+      "email": "kamal6725@gmail.com",
+      "phone": "+76-2356-23522",
+      "active": true,
+      "id": 8
+    },
+    {
+      "name": "hammad",
+      "email": "hammad6526@yahoo.com",
+      "phone": "+37-9623-89623",
+      "active": true,
+      "id": 9
+    }
+  ]
+}
